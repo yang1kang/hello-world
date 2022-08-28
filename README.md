@@ -1,2 +1,4 @@
 # hello-world
-My First
+My First repository on GitHub!
+I love Cloud computre.
+My name is yangkang.
